@@ -1,6 +1,14 @@
 package WordSearch;
 /**
  * class of words
+ *
+ * * Git
+ *
+ * -- Repository :
+ *    https://github.com/Zb-H/cs/tree/main
+ *
+ * -- Latest version (auto-updated):
+ *    https://github.com/Zb-H/cs/blob/main/cs210/Assignment03/src/WordSearch/Words.java
  */
 
 public class Words{

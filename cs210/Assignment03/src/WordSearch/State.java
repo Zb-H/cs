@@ -13,6 +13,13 @@ import java.util.*;
  *           |         |               |
  *           v         v               |
  *           [exit state]<--------------
+ *  * Git
+ *
+ * -- Repository :
+ *    https://github.com/Zb-H/cs/tree/main
+ *
+ * -- Latest version (auto-updated):
+ *    https://github.com/Zb-H/cs/blob/main/cs210/Assignment03/src/WordSearch/State.java
  */
 
 public enum State {

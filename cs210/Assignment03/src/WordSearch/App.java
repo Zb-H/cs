@@ -38,6 +38,14 @@ import java.util.*;
  *   -- Searches stored words
  *   -- Counts word frequency
  *   -- Uses enum-based state machine
+ *
+ * * Git
+ *
+ *  -- Repository :
+ *   https://github.com/Zb-H/cs/tree/main
+ *
+ *  -- Latest version (auto-updated):
+ *   https://github.com/Zb-H/cs/blob/main/cs210/Assignment03/src/WordSearch/App.java
 */
 
 public class App{
