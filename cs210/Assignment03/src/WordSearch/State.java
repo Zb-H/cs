@@ -168,5 +168,4 @@ public enum State {
                             , "Type 'grep' to enter search mode."
                             , "Type 'esc' to exit program.");
     }
-
-}:word
+}
