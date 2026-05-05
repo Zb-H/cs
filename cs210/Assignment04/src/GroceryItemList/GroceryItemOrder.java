@@ -16,7 +16,7 @@ public class GroceryItemOrder
         setQuantity(quantity);
         this.pricePerUnit = pricePerUnit;
     }
-    // rename method to cost, getcost is very confusing
+    // rename method to cost
     public double cost()
     {
         return quantity * pricePerUnit;
@@ -34,7 +34,7 @@ public class GroceryItemOrder
 
     // Joe - Added this method
     // seems like a getter method
-    // rename method to getName, getItemName is also extremly confusing
+    // rename method to getName
     // and may violates the JavaBeans naming convention and breaks automatic mapping.
     public String getName()
     {
