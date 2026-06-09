@@ -1,0 +1,182 @@
+Go
+  name: Go
+
+BuildingLot
+  name: Mediterranean Ave
+  purPrice: 60
+  houses: 0
+  houseCost: 30
+
+BuildingLot
+  name: Baltic Ave
+  purPrice: 60
+  houses: 0
+  houseCost: 30
+
+RailRoad
+  name: Reading RR
+  purPrice: 200
+
+BuildingLot
+  name: Oriental Ave
+  purPrice: 100
+  houses: 0
+  houseCost: 50
+
+BuildingLot
+  name: Vermont Ave
+  purPrice: 100
+  houses: 0
+  houseCost: 50
+
+BuildingLot
+  name: Connecticut Ave
+  purPrice: 120
+  houses: 2
+  houseCost: 60
+
+BuildingLot
+  name: St. Charles Place
+  purPrice: 140
+  houses: 0
+  houseCost: 70
+
+BuildingLot
+  name: States Ave
+  purPrice: 140
+  houses: 0
+  houseCost: 70
+
+BuildingLot
+  name: Virginia Ave
+  purPrice: 160
+  houses: 0
+  houseCost: 80
+
+RailRoad
+  name: Pennsylvania RR
+  purPrice: 200
+
+BuildingLot
+  name: St. James Place
+  purPrice: 180
+  houses: 2
+  houseCost: 90
+
+BuildingLot
+  name: Tennessee Ave
+  purPrice: 180
+  houses: 0
+  houseCost: 90
+
+BuildingLot
+  name: New York Ave
+  purPrice: 200
+  houses: 0
+  houseCost: 100
+
+BuildingLot
+  name: Kentucky Ave
+  purPrice: 220
+  houses: 0
+  houseCost: 110
+
+BuildingLot
+  name: Indiana Ave
+  purPrice: 220
+  houses: 0
+  houseCost: 110
+
+BuildingLot
+  name: Illinois Ave
+  purPrice: 240
+  houses: 0
+  houseCost: 120
+
+RailRoad
+  name: B&O RR
+  purPrice: 200
+
+BuildingLot
+  name: Atlantic Ave
+  purPrice: 260
+  houses: 0
+  houseCost: 130
+
+BuildingLot
+  name: Ventnor Ave
+  purPrice: 260
+  houses: 1
+  houseCost: 130
+
+BuildingLot
+  name: Marvin Gardens
+  purPrice: 280
+  houses: 0
+  houseCost: 140
+
+BuildingLot
+  name: Pacific Ave
+  purPrice: 300
+  houses: 0
+  houseCost: 150
+
+BuildingLot
+  name: North Carolina Ave
+  purPrice: 300
+  houses: 0
+  houseCost: 150
+
+BuildingLot
+  name: Pennsylvania Ave
+  purPrice: 320
+  houses: 0
+  houseCost: 160
+
+RailRoad
+  name: Short Line
+  purPrice: 200
+
+BuildingLot
+  name: Park Place
+  purPrice: 350
+  houses: 0
+  houseCost: 175
+
+BuildingLot
+  name: Boardwalk
+  purPrice: 400
+  houses: 0
+  houseCost: 200
+
+HumanPlayer
+  name: Fred
+  balance: 750
+  bankrupt: false
+  occupiedSquareID: Ventnor Ave
+  owns: St. James Place
+  owns: Ventnor Ave
+
+ComputerPlayer
+  name: TRON
+  balance: 1160
+  bankrupt: false
+  occupiedSquareID: New York Ave
+  owns: States Ave
+  owns: New York Ave
+
+HumanPlayer
+  name: Mary
+  balance: 1260
+  bankrupt: false
+  occupiedSquareID: Connecticut Ave
+  owns: Connecticut Ave
+
+ComputerPlayer
+  name: HAL
+  balance: 1400
+  bankrupt: false
+  occupiedSquareID: Vermont Ave
+  owns: Vermont Ave
+
+END

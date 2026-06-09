@@ -1,0 +1,13 @@
++-------------------------------------+
+|                Board                |
++-------------------------------------+
+| - boardLength : int                 |
+| - boardWidth  : int                 |:
+
++-------------------------------------+
+| + getBoardLength(boardLength) : int |
+| + getBoardWidth(boardWidth) : int   |
+| + initBoard() : void                |
+| + loadBoard() : void                |
+| + printBoard() : void               |
++-------------------------------------+

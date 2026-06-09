@@ -1,0 +1,35 @@
+Go
+  name: Go
+
+BuildingLot
+  name: Mediterranean Ave
+  purPrice: 60
+  houses: 0
+  houseCost: 30
+
+BuildingLot
+  name: Baltic Ave
+  purPrice: 60
+  houses: 3
+  houseCost: 30
+
+RailRoad
+  name: Reading RR
+  purPrice: 200
+
+HumanPlayer
+  name: Fred
+  balance: 1020
+  bankrupt: false
+  occupiedSquareID: Reading RR
+  owns: Reading RR
+  owns: Baltic Ave
+
+ComputerPlayer
+  name: TRON
+  balance: 1350
+  bankrupt: false
+  occupiedSquareID: Mediterranean Ave
+  owns: Mediterranean Ave
+
+END
