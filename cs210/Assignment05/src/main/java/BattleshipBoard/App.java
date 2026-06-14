@@ -19,6 +19,9 @@ import java.util.*;
  * Course: CS210
  * Date: June 10, 2026
  * Version: 1.3
+ *
+ * git
+ * https://github.com/Zb-H/cs/blob/main/cs210/Assignment05/src/main/java/BattleshipBoard
  */
 public class App{
     // Converts a user-entered x/y-coordinate into a zero-based row/column index.
@@ -349,7 +352,6 @@ public class App{
                     continue;
                 }
             }
-
 
             checkStatus(playerShips);
             checkStatus(botShips);

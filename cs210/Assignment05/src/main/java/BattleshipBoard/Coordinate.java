@@ -1,6 +1,6 @@
 package BattleshipBoard;
 /**
- * The Coordinate class represents one location on the Battleship board. 
+ * The Coordinate class represents one location on the Battleship board.
  * A Coordinate stores a row index and a column index.
  * It also overrides the equals method so two Coordinate objects are considered equal
  * when they have the same row and column values.
