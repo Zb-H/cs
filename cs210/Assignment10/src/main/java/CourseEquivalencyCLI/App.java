@@ -9,6 +9,9 @@ import java.util.Scanner;
  *
  * This program reads one or more CSV files, stores course equivalency data,
  * and lets the user search for equivalent courses from the terminal.
+ *
+ * @author Zhaobi Huang
+ * @git URL: https://github.com/Zb-H/cs/tree/main/cs210/Assignment10
  */
 public class App {
     private static final String[] DEFAULT_FILES = {
