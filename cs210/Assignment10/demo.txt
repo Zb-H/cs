@@ -1,0 +1,57 @@
+Course Equivalency Search Results
+Generated: 2026-06-17T18:21:16.005759689
+Total results: 5
+=============================================================================================================================
+Result #1
+                    SEATTLE UNIVERSITY                     |                      BELLEVUE COLLEGE                     
+                         CSSE 151                          |                           CS 210                          
+            FUNDAMENTALS OF COMPUTER SCIENCE I             |             FUNDAMENTALS OF COMPUTER SCIENCE I            
+                        Credit: 5                          |                         Credit: 5                         
+Comment: Transferable Elective
+Dates: 1/1/1998 - Present
+Source: SEATTLEU_EQUIVALENCY_LIST.csv
+
+Score: 140
+-----------------------------------------------------------------------------------------------------------------------------
+Result #2
+                 UNIVERSITY OF WASHINGTON                  |                      BELLEVUE COLLEGE                     
+                         CSE 142                           |                           CS 210                          
+                  COMPUTER PROGRAMMING I                   |             FUNDAMENTALS OF COMPUTER SCIENCE I            
+                        Credit: 4                          |                         Credit: 5                         
+Comment: Transferable Electives
+Dates: 1994/7/1 - Present
+Source: UW_EQUIVALENCY_LIST.csv
+
+Score: 140
+-----------------------------------------------------------------------------------------------------------------------------
+Result #3
+             UNIVERSITY OF WASHINGTON TACOMA               |                      BELLEVUE COLLEGE                     
+                         TCSS 142                          |                           CS 210                          
+               INTRODUCTION TO PROGRAMMING                 |             FUNDAMENTALS OF COMPUTER SCIENCE I            
+                        Credit: 5                          |                         Credit: 5                         
+Source: UWT_EQUIVALENCY_LIST.csv
+
+Score: 140
+-----------------------------------------------------------------------------------------------------------------------------
+Result #4
+               WASHINGTON STATE UNIVERSITY                 |                      BELLEVUE COLLEGE                     
+                        CPT S 121                          |                           CS 210                          
+              PROGRAM DESIGN AND DEVELOPMENT               |             FUNDAMENTALS OF COMPUTER SCIENCE I            
+                        Credit: 4                          |                         Credit: 5                         
+Comment: Transferable Electives
+Dates: 1/1/2001 - Present
+Source: WSU_EQUIVALENCY_LIST.csv
+
+Score: 140
+-----------------------------------------------------------------------------------------------------------------------------
+Result #5
+               WASHINGTON STATE UNIVERSITY                 |                      BELLEVUE COLLEGE                     
+                        CPT S 122                          |                           CS 210                          
+                     DATA STRUCTURES                       |             FUNDAMENTALS OF COMPUTER SCIENCE I            
+                        Credit: 4                          |                         Credit: 5                         
+Comment: Transferable Electives
+Dates: 1/1/2001 - Present
+Source: WSU_EQUIVALENCY_LIST.csv
+
+Score: 140
+-----------------------------------------------------------------------------------------------------------------------------

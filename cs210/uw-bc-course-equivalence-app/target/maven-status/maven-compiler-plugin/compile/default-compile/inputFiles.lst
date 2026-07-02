@@ -1,0 +1,6 @@
+/home/zh/cs/cs210/uw-bc-course-equivalence-app/src/main/java/com/zh/courseeq/App.java
+/home/zh/cs/cs210/uw-bc-course-equivalence-app/src/main/java/com/zh/courseeq/gui/EquivalencyFrame.java
+/home/zh/cs/cs210/uw-bc-course-equivalence-app/src/main/java/com/zh/courseeq/model/CourseEquivalency.java
+/home/zh/cs/cs210/uw-bc-course-equivalence-app/src/main/java/com/zh/courseeq/repository/EquivalencyRepository.java
+/home/zh/cs/cs210/uw-bc-course-equivalence-app/src/main/java/com/zh/courseeq/service/SearchMode.java
+/home/zh/cs/cs210/uw-bc-course-equivalence-app/src/main/java/com/zh/courseeq/service/SearchService.java

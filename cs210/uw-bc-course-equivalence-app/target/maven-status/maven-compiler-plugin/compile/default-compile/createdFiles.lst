@@ -1,0 +1,7 @@
+com/zh/courseeq/service/SearchService.class
+com/zh/courseeq/service/SearchMode.class
+com/zh/courseeq/service/SearchService$1.class
+com/zh/courseeq/model/CourseEquivalency.class
+com/zh/courseeq/App.class
+com/zh/courseeq/gui/EquivalencyFrame.class
+com/zh/courseeq/repository/EquivalencyRepository.class
