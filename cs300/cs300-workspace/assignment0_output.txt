@@ -1,0 +1,53 @@
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zh/cs/cs300/cs300-workspace/build
+ninja: no work to do.
+Test project /home/zh/cs/cs300/cs300-workspace/build
+      Start  1: SongConstructorTest.DefaultConstructor
+ 1/15 Test  #1: SongConstructorTest.DefaultConstructor .........   Passed    0.00 sec
+      Start  2: SongConstructorTest.ParameterizedConstructor
+ 2/15 Test  #2: SongConstructorTest.ParameterizedConstructor ...   Passed    0.00 sec
+      Start  3: SongConstructorTest.PartialConstructor
+ 3/15 Test  #3: SongConstructorTest.PartialConstructor .........   Passed    0.00 sec
+      Start  4: SongConstructorTest.LongStrings
+ 4/15 Test  #4: SongConstructorTest.LongStrings ................   Passed    0.00 sec
+      Start  5: SongConstructorTest.RatingExtremes
+ 5/15 Test  #5: SongConstructorTest.RatingExtremes .............   Passed    0.00 sec
+      Start  6: SongFieldAssignmentTest.CanAssignToFields
+ 6/15 Test  #6: SongFieldAssignmentTest.CanAssignToFields ......   Passed    0.00 sec
+      Start  7: FindFavoriteSongIndexTest.SingleSong
+ 7/15 Test  #7: FindFavoriteSongIndexTest.SingleSong ...........   Passed    0.00 sec
+      Start  8: FindFavoriteSongIndexTest.MultipleSongs
+ 8/15 Test  #8: FindFavoriteSongIndexTest.MultipleSongs ........   Passed    0.00 sec
+      Start  9: FindFavoriteSongIndexTest.AllSameRating
+ 9/15 Test  #9: FindFavoriteSongIndexTest.AllSameRating ........   Passed    0.00 sec
+      Start 10: FindFavoriteSongIndexTest.FavoriteIsLast
+10/15 Test #10: FindFavoriteSongIndexTest.FavoriteIsLast .......   Passed    0.00 sec
+      Start 11: FindFavoriteSongIndexTest.FavoriteIsFirst
+11/15 Test #11: FindFavoriteSongIndexTest.FavoriteIsFirst ......   Passed    0.00 sec
+      Start 12: FindFavoriteSongIndexTest.LargeCollection
+12/15 Test #12: FindFavoriteSongIndexTest.LargeCollection ......   Passed    0.00 sec
+      Start 13: FindFavoriteSongIndexTest.NegativeRatings
+13/15 Test #13: FindFavoriteSongIndexTest.NegativeRatings ......   Passed    0.00 sec
+      Start 14: FindFavoriteSongIndexTest.ZeroRatings
+14/15 Test #14: FindFavoriteSongIndexTest.ZeroRatings ..........   Passed    0.00 sec
+      Start 15: SongArrayTest.CreateAndPopulateArray
+15/15 Test #15: SongArrayTest.CreateAndPopulateArray ...........   Passed    0.00 sec
+
+100% tests passed out of 15
+
+Total Test time (real) =   0.06 sec
+
+--- All Songs ---
+I Know the End by Phoebe Bridgers (Rating: 5) <-- FAVORITE
+Imagine by John Lennon (Rating: 4)
+Die With a Smile by Bruno Mars (Rating: 4)
+i love you by Billie Eilish (Rating: 5)
+Hallelujah by Leonard Cohen (Rating: 4)
+Hey Jude by The Beatles (Rating: 3)
+Purple Rain by Prince (Rating: 5)
+Smells Like Teen Spirit by Nirvana (Rating: 4)
+Black by Pearl Jam (Rating: 5)
+Call Me Maybe by Carly Rae Jepsen (Rating: 3)
+
+Your favorite song is: I Know the End by Phoebe Bridgers
