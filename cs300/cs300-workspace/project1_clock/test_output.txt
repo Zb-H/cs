@@ -1,0 +1,57 @@
+Test project /home/zh/cs/cs300/cs300-workspace/build
+      Start  1: SongConstructorTest.DefaultConstructor
+ 1/26 Test  #1: SongConstructorTest.DefaultConstructor ............   Passed    0.00 sec
+      Start  2: SongConstructorTest.ParameterizedConstructor
+ 2/26 Test  #2: SongConstructorTest.ParameterizedConstructor ......   Passed    0.00 sec
+      Start  3: SongConstructorTest.PartialConstructor
+ 3/26 Test  #3: SongConstructorTest.PartialConstructor ............   Passed    0.00 sec
+      Start  4: SongConstructorTest.LongStrings
+ 4/26 Test  #4: SongConstructorTest.LongStrings ...................   Passed    0.00 sec
+      Start  5: SongConstructorTest.RatingExtremes
+ 5/26 Test  #5: SongConstructorTest.RatingExtremes ................   Passed    0.00 sec
+      Start  6: SongFieldAssignmentTest.CanAssignToFields
+ 6/26 Test  #6: SongFieldAssignmentTest.CanAssignToFields .........   Passed    0.00 sec
+      Start  7: FindFavoriteSongIndexTest.SingleSong
+ 7/26 Test  #7: FindFavoriteSongIndexTest.SingleSong ..............   Passed    0.00 sec
+      Start  8: FindFavoriteSongIndexTest.MultipleSongs
+ 8/26 Test  #8: FindFavoriteSongIndexTest.MultipleSongs ...........   Passed    0.00 sec
+      Start  9: FindFavoriteSongIndexTest.AllSameRating
+ 9/26 Test  #9: FindFavoriteSongIndexTest.AllSameRating ...........   Passed    0.00 sec
+      Start 10: FindFavoriteSongIndexTest.FavoriteIsLast
+10/26 Test #10: FindFavoriteSongIndexTest.FavoriteIsLast ..........   Passed    0.00 sec
+      Start 11: FindFavoriteSongIndexTest.FavoriteIsFirst
+11/26 Test #11: FindFavoriteSongIndexTest.FavoriteIsFirst .........   Passed    0.00 sec
+      Start 12: FindFavoriteSongIndexTest.LargeCollection
+12/26 Test #12: FindFavoriteSongIndexTest.LargeCollection .........   Passed    0.00 sec
+      Start 13: FindFavoriteSongIndexTest.NegativeRatings
+13/26 Test #13: FindFavoriteSongIndexTest.NegativeRatings .........   Passed    0.00 sec
+      Start 14: FindFavoriteSongIndexTest.ZeroRatings
+14/26 Test #14: FindFavoriteSongIndexTest.ZeroRatings .............   Passed    0.00 sec
+      Start 15: SongArrayTest.CreateAndPopulateArray
+15/26 Test #15: SongArrayTest.CreateAndPopulateArray ..............   Passed    0.00 sec
+      Start 16: ClockTest.DefaultConstructorSetsMidnight
+16/26 Test #16: ClockTest.DefaultConstructorSetsMidnight ..........   Passed    0.00 sec
+      Start 17: ClockTest.ParameterizedConstructorSetsTime
+17/26 Test #17: ClockTest.ParameterizedConstructorSetsTime ........   Passed    0.00 sec
+      Start 18: ClockTest.GetHourReturnsCurrentHour
+18/26 Test #18: ClockTest.GetHourReturnsCurrentHour ...............   Passed    0.00 sec
+      Start 19: ClockTest.GetMinuteReturnsCurrentMinute
+19/26 Test #19: ClockTest.GetMinuteReturnsCurrentMinute ...........   Passed    0.00 sec
+      Start 20: ClockTest.IncrementMinutesNormalCase
+20/26 Test #20: ClockTest.IncrementMinutesNormalCase ..............   Passed    0.00 sec
+      Start 21: ClockTest.IncrementMinutesWithinSameHour
+21/26 Test #21: ClockTest.IncrementMinutesWithinSameHour ..........   Passed    0.00 sec
+      Start 22: ClockTest.IncrementMinutesCrossesHour
+22/26 Test #22: ClockTest.IncrementMinutesCrossesHour .............   Passed    0.00 sec
+      Start 23: ClockTest.IncrementMinutesWrapsAroundMidnight
+23/26 Test #23: ClockTest.IncrementMinutesWrapsAroundMidnight .....   Passed    0.00 sec
+      Start 24: ClockTest.IncrementZeroMinutesDoesNotChangeTime
+24/26 Test #24: ClockTest.IncrementZeroMinutesDoesNotChangeTime ...   Passed    0.00 sec
+      Start 25: ClockTest.IncrementOneFullDayReturnsSameTime
+25/26 Test #25: ClockTest.IncrementOneFullDayReturnsSameTime ......   Passed    0.00 sec
+      Start 26: ClockTest.IncrementMoreThanOneDay
+26/26 Test #26: ClockTest.IncrementMoreThanOneDay .................   Passed    0.00 sec
+
+100% tests passed out of 26
+
+Total Test time (real) =   0.11 sec
