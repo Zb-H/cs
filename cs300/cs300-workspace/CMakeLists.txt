@@ -38,3 +38,7 @@ enable_testing()
 
 add_subdirectory(project0-playlist-warmup)
 add_subdirectory("project1_clock")
+add_subdirectory(project2_shopping_cart)
+add_executable(test_program
+    test/test.cpp
+)

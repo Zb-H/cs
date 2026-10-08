@@ -1,0 +1,58 @@
+=== Project 2 GoogleTest output ===
+Running main() from /home/zh/cs/cs300/cs300-workspace/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 17 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 11 tests from ResizeableArrayBagTest
+[ RUN      ] ResizeableArrayBagTest.NewBagIsEmpty
+[       OK ] ResizeableArrayBagTest.NewBagIsEmpty (0 ms)
+[ RUN      ] ResizeableArrayBagTest.AddStoresItemsAndDuplicates
+[       OK ] ResizeableArrayBagTest.AddStoresItemsAndDuplicates (0 ms)
+[ RUN      ] ResizeableArrayBagTest.ResizesPastDefaultCapacity
+[       OK ] ResizeableArrayBagTest.ResizesPastDefaultCapacity (0 ms)
+[ RUN      ] ResizeableArrayBagTest.ToVectorContainsEveryItem
+[       OK ] ResizeableArrayBagTest.ToVectorContainsEveryItem (0 ms)
+[ RUN      ] ResizeableArrayBagTest.GetNextIsStableUntilBagChanges
+[       OK ] ResizeableArrayBagTest.GetNextIsStableUntilBagChanges (0 ms)
+[ RUN      ] ResizeableArrayBagTest.RemoveNextRemovesGetNextItem
+[       OK ] ResizeableArrayBagTest.RemoveNextRemovesGetNextItem (0 ms)
+[ RUN      ] ResizeableArrayBagTest.EmptyGetNextThrows
+[       OK ] ResizeableArrayBagTest.EmptyGetNextThrows (0 ms)
+[ RUN      ] ResizeableArrayBagTest.EmptyRemoveNextReturnsFalse
+[       OK ] ResizeableArrayBagTest.EmptyRemoveNextReturnsFalse (0 ms)
+[ RUN      ] ResizeableArrayBagTest.RemoveDeletesOneOccurrenceOnly
+[       OK ] ResizeableArrayBagTest.RemoveDeletesOneOccurrenceOnly (0 ms)
+[ RUN      ] ResizeableArrayBagTest.ClearMakesBagEmpty
+[       OK ] ResizeableArrayBagTest.ClearMakesBagEmpty (0 ms)
+[ RUN      ] ResizeableArrayBagTest.CopyConstructorMakesIndependentCopy
+[       OK ] ResizeableArrayBagTest.CopyConstructorMakesIndependentCopy (0 ms)
+[----------] 11 tests from ResizeableArrayBagTest (0 ms total)
+
+[----------] 6 tests from ArrayShoppingCartTest
+[ RUN      ] ArrayShoppingCartTest.NewCartIsEmpty
+[       OK ] ArrayShoppingCartTest.NewCartIsEmpty (0 ms)
+[ RUN      ] ArrayShoppingCartTest.AddsQuantityAsDuplicateProducts
+[       OK ] ArrayShoppingCartTest.AddsQuantityAsDuplicateProducts (0 ms)
+[ RUN      ] ArrayShoppingCartTest.CalculatesTotalCost
+[       OK ] ArrayShoppingCartTest.CalculatesTotalCost (0 ms)
+[ RUN      ] ArrayShoppingCartTest.RemoveProductRemovesOneCopy
+[       OK ] ArrayShoppingCartTest.RemoveProductRemovesOneCopy (0 ms)
+[ RUN      ] ArrayShoppingCartTest.GetProductsReturnsAllProducts
+[       OK ] ArrayShoppingCartTest.GetProductsReturnsAllProducts (0 ms)
+[ RUN      ] ArrayShoppingCartTest.ClearEmptiesCart
+[       OK ] ArrayShoppingCartTest.ClearEmptiesCart (0 ms)
+[----------] 6 tests from ArrayShoppingCartTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 17 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 17 tests.
+
+=== Project 2 sample program run ===
+Shopping Cart
+-------------
+Enter product name (or done): Enter price: $Enter quantity: Enter product name (or done): Enter price: $Enter quantity: Enter product name (or done): 
+Cart contents:
+- Apple: $1.25
+- Bread: $3.50
+- Apple: $1.25
+Total items: 3
+Total cost: $6.00
