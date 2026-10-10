@@ -1,0 +1,5 @@
+/home/zh/cs/cpp-basic/build/CMakeFiles/edit_cache.dir
+/home/zh/cs/cpp-basic/build/CMakeFiles/rebuild_cache.dir
+/home/zh/cs/cpp-basic/build/triangle/CMakeFiles/triangle.dir
+/home/zh/cs/cpp-basic/build/triangle/CMakeFiles/edit_cache.dir
+/home/zh/cs/cpp-basic/build/triangle/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/triangle.dir/link.d CMakeFiles/triangle.dir/triangle.cpp.o -o triangle

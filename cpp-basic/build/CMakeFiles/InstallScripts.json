@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/zh/cs/cpp-basic/build/cmake_install.cmake",
+		"/home/zh/cs/cpp-basic/build/triangle/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
